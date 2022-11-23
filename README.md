@@ -1,8 +1,8 @@
 ### ⚡ About me ⚡
 
 📍 Android developer with passion to write clean code and create apps with beautiful design.\
-📍 I'm currently working on refactor [Scriptum](https://github.com/SerjantArbuz/Scriptum) and solving puzzles in [AdventOfCode](https://github.com/SerjantArbuz/AdventOfCode) (🐢 _moving slowly but surely_)\
-📍 Hobbies (besides codding): travelling, photography, acoustic guitar, collecting coins and banknotes.
+📍 I'm currently working on refactor [Scriptum](https://github.com/SerjantArbuz/Scriptum) and solving puzzles in [AdventOfCode](https://github.com/SerjantArbuz/AdventOfCode) (_moving slowly but surely_ 🐢)\
+📍 Hobbies (_besides codding_): travelling, photography, acoustic guitar, collecting coins and banknotes.
 
 ### ⚡ Check out social media ⚡
 
