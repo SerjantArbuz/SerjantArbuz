@@ -1,3 +1,7 @@
+### ⚡ Work accounts ⚡
+
+🔸 [Polestar](https://github.com/akuznetss)
+
 ### ⚡ About me ⚡
 
 📍 Android developer with passion to write clean code and create apps with beautiful design.\
