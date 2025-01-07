@@ -13,7 +13,6 @@
 🔸 [LinkedIn](https://www.linkedin.com/in/lexandroid/)\
 🔸 [Medium](https://medium.com/@serjantarbuz)\
 🔸 [StackOverflow](https://stackoverflow.com/users/7699617/serjantarbuz)\
-🔸 [Instagram](https://www.instagram.com/serjant_arbuz/)
 
 ### ⚡ How to contact ⚡
 
