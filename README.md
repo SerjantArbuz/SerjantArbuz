@@ -12,7 +12,7 @@
 
 🔸 [LinkedIn](https://www.linkedin.com/in/lexandroid/)\
 🔸 [Medium](https://medium.com/@serjantarbuz)\
-🔸 [StackOverflow](https://stackoverflow.com/users/7699617/serjantarbuz)\
+🔸 [StackOverflow](https://stackoverflow.com/users/7699617/serjantarbuz)
 
 ### ⚡ How to contact ⚡
 
