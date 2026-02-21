@@ -10,7 +10,7 @@
 ### ⚡ Social media ⚡
 
 🔸 [LinkedIn](https://www.linkedin.com/in/lexandroid/)\
-🔸 [Medium](https://medium.com/@serjantarbuz)\
+🔸 [Medium](https://medium.com/@serjantarbuz)
 
 ### ⚡ How to contact ⚡
 
